@@ -1,6 +1,6 @@
 ## This is the code for P12 (Applying Data Science).
 
-Link to the Jupyter Notebook: https://colab.research.google.com/github/Ryan-lra/P12-Applying-Data-Science-/blob/main/NWS_renewed.ipynb
+Link to the Jupyter Notebook: [https://colab.research.google.com/github/Ryan-lra/P12-Applying-Data-Science-/blob/main/NWS_renewed.ipynb](https://colab.research.google.com/drive/1NZNTfOFKtCwUICeGtp7cpGqVA1OUE5_1?usp=sharing)
 
 Note: The Jupyter notebook in this repository may not render properly on GitHub due to missing or incompatible widget metadata (metadata.widgets.state).
 This can cause errors like:
